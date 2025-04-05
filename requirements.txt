@@ -6,4 +6,5 @@ langchain
 openai
 python-dotenv
 langchain_community==0.3.21
-langchain
+langchain-openai
+
