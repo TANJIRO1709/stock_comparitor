@@ -5,3 +5,4 @@ yahooquery
 langchain
 openai
 python-dotenv
+langchain_community
