@@ -5,4 +5,4 @@ yahooquery
 langchain
 openai
 python-dotenv
-langchain_community = 0.1.7
+langchain_community==0.1.7
